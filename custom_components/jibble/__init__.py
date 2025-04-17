@@ -1,0 +1,1 @@
+"""Jibble Greetings Component."""
